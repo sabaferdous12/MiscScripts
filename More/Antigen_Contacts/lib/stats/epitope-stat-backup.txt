@@ -1,0 +1,8 @@
+Antibody:	Regions:	Odd_Bits
+1A14_1.pdb:	4:		1
+1A2Y_1.pdb:	2:		4
+1A3R_1.pdb:	1:		0
+1AFV_1.pdb:	2:		0
+1AFV_2.pdb:	2:		0
+1AHW_1.pdb:	3:		3
+1AHW_2.pdb:	3:		2
